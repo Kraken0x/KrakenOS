@@ -70,8 +70,7 @@ krakenos/
 ├── index.js        # Main entry point
 ├── package.json    # Project metadata and dependencies
 ├── .env            # Environment variables
-├── utils/          # Helper functions
-├── services/       # API integration logic
+├── personas/       # Folder for agent behavior configurations
 └── README.md       # Project documentation
 ```
 
